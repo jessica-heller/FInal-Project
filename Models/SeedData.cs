@@ -169,7 +169,7 @@ namespace FinalProject.Models
 
                     new Book {Title = "The Calculating Stars", Author = "Mary Robinette Kowal", Publisher = "Tor Books", 
                     PublicationDate = new DateOnly(2018,7,3), ISBN = "978-0765378385", Genre = "Science Fiction", 
-                    BookDescription = "A meteorite strikes Earth in the 1950s and causes catastrophic damage, leading a former WASP pilot to join the effort to colonize space."}
+                    BookDescription = "A meteorite strikes Earth in the 1950s and causes catastrophic damage, leading a former WASP pilot to join the effort to colonize space."},
 
                     new Book {Title = "Dune", Author = "Frank Herbert", Publisher = "Chilton Books",
                     PublicationDate = new DateOnly(1965,8,1), ISBN = "978-0441172719", Genre = "Science Fiction",

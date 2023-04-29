@@ -18645,8 +18645,28 @@
   "RootNamespace": "FInal_Project",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Books\\Create.cshtml",
+      "TargetPath": "Pages\\Books\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Books\\Edit.cshtml",
+      "TargetPath": "Pages\\Books\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Books\\Index.cshtml",
+      "TargetPath": "Pages\\Books\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Books\\Delete.cshtml",
+      "TargetPath": "Pages\\Books\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18655,8 +18675,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Users\\Delete.cshtml",
+      "TargetPath": "Pages\\Users\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Users\\Index.cshtml",
+      "TargetPath": "Pages\\Users\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Users\\Edit.cshtml",
+      "TargetPath": "Pages\\Users\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18675,8 +18710,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Users\\Create.cshtml",
+      "TargetPath": "Pages\\Users\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Users\\Details.cshtml",
+      "TargetPath": "Pages\\Users\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jlhel\\OneDrive\\Desktop\\Final-Project\\FInal-Project\\Pages\\Books\\Details.cshtml",
+      "TargetPath": "Pages\\Books\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],
